@@ -1,38 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://thanosfisherman.github.io//2020/05/02/gwpa-faqs-el/</loc>
-<lastmod>2020-05-02T00:00:00+03:00</lastmod>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//2020/05/02/gwpa-faqs/</loc>
-<lastmod>2020-05-02T00:00:00+03:00</lastmod>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//2020/06/30/mayi/</loc>
-<lastmod>2020-06-30T23:00:00+03:00</lastmod>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//2020/07/25/wifiutils/</loc>
-<lastmod>2020-07-25T23:00:00+03:00</lastmod>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//about/</loc>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//posts/gwpa-faqs/</loc>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//</loc>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//tag/android/</loc>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//tag/wifi/</loc>
-</url>
-<url>
-<loc>https://thanosfisherman.github.io//gwparedirect.html</loc>
-<lastmod>2017-08-02T06:09:55+03:00</lastmod>
-</url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://thanosfisherman.github.io/</loc>
+  </url>
 </urlset>
